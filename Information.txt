@@ -8,3 +8,5 @@ Initial Commit
 3) This is my third commit for interactive rebase demo
 
 4)This is my first commit for merge squash demo
+
+5)This is my second commit for merge squash demo
