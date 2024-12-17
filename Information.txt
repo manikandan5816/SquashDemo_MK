@@ -12,3 +12,5 @@ Initial Commit
 5)This is my second commit for merge squash demo
 
 6)This is my third commit for merge squash demo
+
+7)This is my first commit for pull request squash demo
