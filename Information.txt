@@ -1,1 +1,8 @@
 Initial Commit
+
+
+1) This is my first commit for interactive rebase demo
+
+2) This is my second commit for interactive rebase demo
+
+3) This is my third commit for interactive rebase demo
