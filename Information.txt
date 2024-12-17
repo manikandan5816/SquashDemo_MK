@@ -16,3 +16,5 @@ Initial Commit
 7)This is my first commit for pull request squash demo
 
 8)This is my second commit for pull request squash demo
+
+9) This is my third commit for pull request squash demo
